@@ -13,12 +13,6 @@
       "detail": "https://360zy.com",
       "is_adult": false
     },
-    "ckzy": {
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "TV-CK资源",
-      "detail": "https://ckzy.me",
-      "is_adult": false
-    },
     "ukuapi": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "TV-U酷资源",
@@ -408,6 +402,12 @@
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "name": "AV-神马云",
       "detail": "https://api.1080zyku.com",
+      "is_adult": true
+    },
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "AV-CK资源",
+      "detail": "https://ckzy.me",
       "is_adult": true
     },
     "lbapiby": {
