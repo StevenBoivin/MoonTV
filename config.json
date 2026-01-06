@@ -577,11 +577,6 @@
       "type": "movie",
       "query": "华语"
     },
-	{
-      "name": "间谍",
-      "type": "movie",
-      "query": "间谍"
-    },
     {
       "name": "欧美",
       "type": "movie",
@@ -633,9 +628,9 @@
       "query": "治愈"
     },
     {
-      "name": "色情",
+      "name": "性爱",
       "type": "movie",
-      "query": "色情"
+      "query": "性爱"
     },
     {
       "name": "热门",
@@ -651,6 +646,11 @@
       "name": "谍战",
       "type": "tv",
       "query": "谍战"
+    },
+    {
+      "name": "性爱",
+      "type": "tv",
+      "query": "性爱"
     },
     {
       "name": "美剧",
