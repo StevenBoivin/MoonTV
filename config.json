@@ -175,12 +175,6 @@
       "detail": "https://api.apibdzy.com",
       "is_adult": false
     },
-    "1080zyku_json": {
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "name": "TV-神马云",
-      "detail": "https://api.1080zyku.com",
-      "is_adult": false
-    },
     "suoniapi": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "TV-索尼资源",
@@ -408,6 +402,12 @@
       "api": "https://91md.me/api.php/provide/vod",
       "name": "AV-91麻豆",
       "detail": "https://91md.me",
+      "is_adult": true
+    },
+    "1080zyku_json": {
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "name": "AV-神马云",
+      "detail": "https://api.1080zyku.com",
       "is_adult": true
     },
     "lbapiby": {
