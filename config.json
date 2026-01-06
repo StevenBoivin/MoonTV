@@ -1,6 +1,30 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "155api": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "AV-155资源",
+      "detail": "https://155api.com",
+      "is_adult": true
+    },    
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "AV-百万资源",
+      "detail": "https://api.bwzyz.com",
+      "is_adult": true
+    },
+    "1080zyku_json": {
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "name": "AV-神马云",
+      "detail": "https://api.1080zyku.com",
+      "is_adult": true
+    },
+   "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "AV-CK资源",
+      "detail": "https://ckzy.me",
+      "is_adult": true
+    },  
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "name": "TV-1080资源",
@@ -380,34 +404,10 @@
       "name": "七七影视",
       "is_adult": false
     },
-    "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com",
-      "is_adult": true
-    },    
-    "bwzyz": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "AV-百万资源",
-      "detail": "https://api.bwzyz.com",
-      "is_adult": true
-    },  
 	"91md": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "AV-91麻豆",
       "detail": "https://91md.me",
-      "is_adult": true
-    },
-    "1080zyku_json": {
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "name": "AV-神马云",
-      "detail": "https://api.1080zyku.com",
-      "is_adult": true
-    },
-    "ckzy": {
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "AV-CK资源",
-      "detail": "https://ckzy.me",
       "is_adult": true
     },
     "lbapiby": {
